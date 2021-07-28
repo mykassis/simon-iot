@@ -134,3 +134,5 @@ registro/
 
 #Arquivos de confiuraçao
 config.ini
+
+DHT22.py
